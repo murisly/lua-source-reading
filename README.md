@@ -23,4 +23,4 @@ http://blog.csdn.net/murisly/article/details/46869805
 Lua5.2.3源码阅读(3)-Table(ipairs,pairs)
 http://blog.csdn.net/murisly/article/details/46885327
 
-3.部分流程，结构参见
+3.部分流程，结构参见vsd文件
