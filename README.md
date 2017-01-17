@@ -1,26 +1,19 @@
 # lua-source-reading
 
-1.Ê¹ÓÃ²Î¼û¹ÙÍø
-http://www.lua.org/
+1. [ä½¿ç”¨è¯´æ˜å‚è§luaå®˜ç½‘](http://www.lua.org/)
 
-ÖĞÎÄ·­Òë²Î¼ûÔÆ·ç·­Òë
-http://cloudwu.github.io/lua53doc/
+2. [ä¸­æ–‡ç¿»è¯‘å‚è§äº‘é£ç¿»è¯‘](http://cloudwu.github.io/lua53doc/)
 
+3. é˜…è¯»çš„ä¸€äº›ç†è§£
 
-2.ÔÄ¶ÁµÄÒ»Ğ©Àí½â
-Lua5.3 ×¢²á±í _G _ENV
-http://blog.csdn.net/murisly/article/details/46518551
++ [Lua5.3 æ³¨å†Œè¡¨ _G _ENV](http://blog.csdn.net/murisly/article/details/46518551)
 
-lua string.dump
-http://blog.csdn.net/murisly/article/details/46652869
++ [Lua string.dump](http://blog.csdn.net/murisly/article/details/46652869)
 
-Lua5.2.3Ô´ÂëÔÄ¶Á(1)-TValue£¬TString
-http://blog.csdn.net/murisly/article/details/46848897
++ [Lua5.2.3æºç é˜…è¯»(1)-TValueï¼ŒTString](http://blog.csdn.net/murisly/article/details/46848897)
 
-Lua5.2.3Ô´ÂëÔÄ¶Á(2)-Table
-http://blog.csdn.net/murisly/article/details/46869805
++ [Lua5.2.3æºç é˜…è¯»(2)-Table](http://blog.csdn.net/murisly/article/details/46869805)
 
-Lua5.2.3Ô´ÂëÔÄ¶Á(3)-Table(ipairs,pairs)
-http://blog.csdn.net/murisly/article/details/46885327
++ [Lua5.2.3æºç é˜…è¯»(3)-Table(ipairs,pairs)](http://blog.csdn.net/murisly/article/details/46885327)
 
-3.²¿·ÖÁ÷³Ì£¬½á¹¹²Î¼ûvsdÎÄ¼ş
+4. éƒ¨åˆ†æµç¨‹ï¼Œç»“æ„å‚è§vsdæ–‡ä»¶(éœ€è¦visioæ‰“å¼€)
